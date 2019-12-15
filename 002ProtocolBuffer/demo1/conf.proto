@@ -1,0 +1,7 @@
+package lm;  			//Package Name
+message helloworld 		//Message Name
+{
+	required int32  id = 1;	    //id
+	required string str = 2;	//str
+	optional int32  op = 3;		//optional file
+}

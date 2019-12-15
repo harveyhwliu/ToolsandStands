@@ -1,0 +1,5 @@
+package common;  	//Package Name
+message header 		//Message Name
+{
+	required int32 info_header =666;
+}
