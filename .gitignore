@@ -1,0 +1,6 @@
+*.log
+*.a
+*.so
+*.pb
+*.git
+*.idea
